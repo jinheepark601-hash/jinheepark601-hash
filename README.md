@@ -1,4 +1,4 @@
-## Hi there 👋
+## Nice to meet you ! Im Lee ju hyuk
 
 <!--
 **jinheepark601-hash/jinheepark601-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
